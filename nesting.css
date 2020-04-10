@@ -1,0 +1,9 @@
+li {
+    text-align: left;
+    color: black;
+    font-family: Arial, sans-serif;
+    margin-left: auto;
+  }
+  ol > li {
+    color: red;
+  }

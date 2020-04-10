@@ -1,0 +1,31 @@
+@media print {
+    display: none;
+  }
+}
+div {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+.success {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+
+.success {
+  background-color: black;
+}
+
+.row > div {
+  padding: 20px;
+  background-color: #ff6666;
+  border: 2px solid black;
+  text-align: center;
+}
+
+/*# sourceMappingURL=Inheritance.scss.map */

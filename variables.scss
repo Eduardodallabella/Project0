@@ -1,0 +1,35 @@
+$color: black;
+
+.teste {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+h2 {
+  color: $color;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  height: 50px;
+}
+
+table {
+  border: 2px solid $color;
+  text-align: center;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td {
+  border: 1px solid $color;
+  padding: 5px;
+  text-align: center;
+}
+
+th {
+  background-color: lightgray;
+  text-align: center;
+}
+
+/*# sourceMappingURL=variables.scss.map */
